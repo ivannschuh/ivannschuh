@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="150" src=""  />
-
 ###
 
 <br clear="both">
@@ -58,7 +56,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ivannschuh/ivannschuh/output/snake.svg" alt="Snake animation" />
 
 ###
